@@ -8,6 +8,9 @@ Building practical machine learning solutions for real-world operational challen
 
 </div>
 
+<img width="2172" height="724" alt="ChatGPT Image Sep 26, 2026, 01_21_39 PM" src="https://github.com/user-attachments/assets/f557bb25-9d55-4897-beaa-322563070049" />
+
+
 ---
 
 ## About Us
